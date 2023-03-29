@@ -1,1 +1,2 @@
 Request for balance check
+if credited amout is <=10000 than withdraw 5000.
